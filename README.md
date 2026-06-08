@@ -4,7 +4,7 @@ This project is my hands-on implementation of a Retrieval-Augmented Generation (
 
 The system:
 
-- Loads PDF documents
+- Loads PDF and text_file documents
 - Splits documents into chunks
 - Generates embeddings
 - Stores embeddings in a vector database
